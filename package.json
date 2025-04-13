@@ -1,0 +1,26 @@
+{
+  "name": "examen-final-libreria",
+  "version": "1.0.0",
+  "description": "Examen parcial 2",
+  "homepage": "https://github.com/mamarquezp/examen-final-libreria#readme",
+  "bugs": {
+    "url": "https://github.com/mamarquezp/examen-final-libreria/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamarquezp/examen-final-libreria.git"
+  },
+  "license": "ISC",
+  "author": "Mike Alexander Márquez Paiz",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "node src/app.js"
+  },
+  "dependencies": {
+    "colours": "^0.6.0-2",
+    "inquirer": "^12.5.2",
+    "readline-sync": "^1.4.10"
+  }
+}
